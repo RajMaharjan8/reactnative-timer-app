@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "shallow-soylent",
+    "slug": "snack-bfe4faab-8e1b-49d4-8c0d-9a54630077e0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.mr_rajm8.snackbfe4faab8e1b49d48c0d9a54630077e0"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "050766b0-8c05-4ea0-9148-5e41d72be21c"
+      }
+    }
+  }
+}
